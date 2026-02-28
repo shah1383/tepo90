@@ -16,10 +16,7 @@ TEXT_PATH = "normal.txt"
 FIN_PATH = "final.txt"
 
 LINK_PATH = [
-    ,"https://almasi-1990.almasi-ali98.workers.dev/522e8484-53de-41a1-a5ba-92e2ec3b7b26/ty",
-    "https://shah-2879.almasi-ali98.workers.dev/panel/sub",
-    "https://almasi.ahsan-tepo1383online.workers.dev/sab/sub",
-    "https://doh-worker.almasi-ali98.workers.dev/9c896b74-c3da-4ceb-89cc-052bf59c863e?sub",
+    
     "https://raw.githubusercontent.com/LalatinaHub/Mineral/master/result/nodes",
     "https://gist.githubusercontent.com/Ali-Anv1/2575a0ebc15d1d8ec3dcca18a9015958/raw/59da26d9c46bf2a4c0a1f664e9593d99bdf78afe/Hp71-v2",
     "https://zaya.link/Arista_HP_Final",
