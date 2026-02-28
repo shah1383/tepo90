@@ -16,23 +16,24 @@ TEXT_PATH = "normal.txt"
 FIN_PATH = "final.txt"
 
 LINK_PATH = [
-    "https://chine-panel.ahsan-tepo98.workers.dev/c808ce19-f298-4087-9bf1-27a5649fc307/sub"
-    "https://raw.githubusercontent.com/tepo80/tepo18/main/ssh.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo18/main/ssh10.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo18/main/ssh20.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo18/main/ssh30.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo18/main/ssh40.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo18/main/ssh50.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo18/main/ssh60.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo18/main/ssh70.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo18/main/ssh80.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo18/main/ssh90.txt",
-    # منابع اضافی
-    "https://raw.githubusercontent.com/tepo80/tepo18/main/trojan10.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo18/main/trojan20.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo18/main/trojan30.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo18/main/trojan40.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo18/main/trojan50.txt"
+    ,"https://almasi-1990.almasi-ali98.workers.dev/522e8484-53de-41a1-a5ba-92e2ec3b7b26/ty",
+    "https://shah-2879.almasi-ali98.workers.dev/panel/sub",
+    "https://almasi.ahsan-tepo1383online.workers.dev/sab/sub",
+    "https://doh-worker.almasi-ali98.workers.dev/9c896b74-c3da-4ceb-89cc-052bf59c863e?sub",
+    "https://raw.githubusercontent.com/LalatinaHub/Mineral/master/result/nodes",
+    "https://gist.githubusercontent.com/Ali-Anv1/2575a0ebc15d1d8ec3dcca18a9015958/raw/59da26d9c46bf2a4c0a1f664e9593d99bdf78afe/Hp71-v2",
+    "https://zaya.link/Arista_HP_Final",
+    "https://zaya.io/Hp71-v2",
+    "https://zood.link/Motasel_Ba_Hame_Chi",
+    "https://raw.githubusercontent.com/parvinxs/Fssociety/refs/heads/main/Fssociety.sub",
+    "https://vahed-1383.almasi-ali98.workers.dev/sab",
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/hy2.txt",
+    "https://raw.githubusercontent.com/coldwater-10/V2Hub/main/Split/Base64/reality",
+    "https://raw.githubusercontent.com/hamedp-71/For_All_Net/refs/heads/main/hp.txt",
+    "https://doh-worker.almasi-ali98.workers.dev/9c896b74-c3da-4ceb-89cc-052bf59c863e?sub",
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/refs/heads/main/All_Configs_Sub.txt",
+    "https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/All_Configs_Sub.txt"
+
 ]
 
 FILE_HEADER_TEXT = "//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE="
