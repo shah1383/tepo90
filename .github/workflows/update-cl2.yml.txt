@@ -27,7 +27,7 @@ jobs:
         run: pip install requests psutil retrying PyYAML || echo "skip install"
 
       - name: Run cl.py
-        run: timeout 180s python cl.py || echo "❌ cl2.py failed or skipped"
+        run: timeout 180s python cl.py || echo "❌ cl.py failed or skipped"
 
       - name: Commit & Push results
         run: |
